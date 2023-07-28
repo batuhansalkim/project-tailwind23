@@ -33,9 +33,6 @@ function Navbar() {
           <li className='text-2xl py-8'><a href="#contact">Contact</a></li>
         </ul>
         </div>
-          {/* <div onClick={handleNav} : "absolute top-0 h-screen left-[-100%] ease-in duration-500"}>
-            
-        </div> */}
     </div>
   )
 }
