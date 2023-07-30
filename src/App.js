@@ -1,7 +1,7 @@
 import './App.css';
 import Activities from './components/Activities';
 import Booking from './components/Booking';
-import Form from './components/Form';
+import Contact from './components/Contact';
 import Gallery from './components/Gallery';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
@@ -16,7 +16,7 @@ function App() {
       <Activities/>
       <Booking/>
       <Gallery/>
-      <Form/>
+      <Contact />
     </div>
   );
 }
